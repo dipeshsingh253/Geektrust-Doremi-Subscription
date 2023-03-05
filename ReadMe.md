@@ -1,3 +1,8 @@
+# Context
+DoReMi is a streaming app which allows users to listen to music, podcasts and watch videos. They offer different subscription plans for different categories of services. Users can subscribe to any of these plans. 
+ - A user can choose only one plan per category. 
+ - All plans, by default, can only be streamed on one device. 
+
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Maven
